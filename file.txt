@@ -1,3 +1,0 @@
-Initial content
-change made in remote repository
-Added incremental change using VS Code
